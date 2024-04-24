@@ -29,12 +29,11 @@ image = "like2.png"
 st.image(image, caption='', use_column_width=True)
 
 # Depoimento e avaliação SUS existentes
-depoimento_existente = "Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.. "
-depoimento_existente1 = "Podemos dar mais a cara da Laniaq, avatar, cores, línguagem dos scripts "
-depoimento_existente2 = "funcionalidade com o Slack ou Pipefy"
-depoimento_existente3 = "Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.. "
-depoimento_existente4 = "Preciso entender e usar mais pra opinar mudanças"
-
+depoimento_existente = '"Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.."'
+depoimento_existente1 = '"Podemos dar mais a cara da Laniaq, avatar, cores, línguagem dos scripts"'
+depoimento_existente2 = '"funcionalidade com o Slack ou Pipefy"'
+depoimento_existente3 = '"Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.."'
+depoimento_existente4 = '"Preciso entender e usar mais pra opinar mudanças"'
 
 
 sus_score_existente = 68
@@ -86,7 +85,7 @@ st.write(descricao_resultado_desempenho)
 
 # Exibir o depoimento e a avaliação SUS existentes
 st.header("Sugestões dos Usuários")
-st.write("Depoimento:")
+st.write("Sugestões:")
 st.write(depoimento_existente)
 st.write(depoimento_existente1) 
 st.write(depoimento_existente2)
