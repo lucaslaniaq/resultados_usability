@@ -29,7 +29,7 @@ image = "like2.png"
 st.image(image, caption='', use_column_width=True)
 
 # Depoimento e avaliação SUS existentes
-depoimento_existente = '"Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.."'
+depoimento_existente = '"Visualmente feio, cores sem graça"'
 depoimento_existente1 = '"Podemos dar mais a cara da Laniaq, avatar, cores, línguagem dos scripts"'
 depoimento_existente2 = '"funcionalidade com o Slack ou Pipefy"'
 depoimento_existente3 = '"Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.."'
