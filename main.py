@@ -35,7 +35,7 @@ depoimento_existente2 = '"funcionalidade com o Slack ou Pipefy"'
 depoimento_existente3 = '"Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.."'
 depoimento_existente4 = '"Preciso entender e usar mais pra opinar mudanças"'
 
-depoimento_existente5 = '"Com relação as funcionalidade é possível modificar para ficar mais parecido com whatsapp possível.. "'
+depoimento_existente5 = '"O visual é levemente confuso, mas nada que dificulte o uso. Acredito que é uma coisa facilmente melhorada com o tempo e o uso. "'
 
 
 sus_score_existente = 68
