@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 # Função para converter o rating SUS em emojis
 def sus_para_emojis(sus_score):
     if sus_score >= 85:
